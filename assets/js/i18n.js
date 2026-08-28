@@ -155,6 +155,8 @@ window.I18N = {
     "edu3.d": "Universitat Oberta de Catalunya",
     "edu4.t": "Ingeniería Informática",
     "edu4.d": "Universidad Jaume I de Castellón. Beca Erasmus 2006-2007 en el Cork Institute of Technology (Irlanda), donde realicé el proyecto de fin de carrera.",
+    "edu5.t": "Máster AI Engineer",
+    "edu5.d": "ThePower Tech School",
 
     "cert.prince2": "PRINCE2 Foundation — Project Management (EXIN, 2015)",
     "cert.prince2upv": "PRINCE2 Foundation: Gestión de Proyectos (UPV, 2015)",
@@ -344,6 +346,8 @@ window.I18N = {
     "edu3.d": "Universitat Oberta de Catalunya",
     "edu4.t": "Computer Engineering (MSc level)",
     "edu4.d": "Universidad Jaume I de Castellón. Erasmus scholarship 2006-2007 at Cork Institute of Technology (Ireland), where I completed my final degree project.",
+    "edu5.t": "Master AI Engineer",
+    "edu5.d": "ThePower Tech School",
 
     "cert.prince2": "PRINCE2 Foundation — Project Management (EXIN, 2015)",
     "cert.prince2upv": "PRINCE2 Foundation: Project Management (UPV, 2015)",
